@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0e00bcd4-c7e3-44ba-95d7-42e05c021807" name="FedLP">
+        <fileTransfer accessType="SFTP" host="10.8.135.1" port="59365" sshConfigId="190084a4-dd8f-47de-9e5f-1339b5302b86" sshConfig="root@10.8.135.1:59365 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="bfdb7595-fdaf-45f7-aa7d-dca0bbcc0592" name="fedlp">
+        <fileTransfer accessType="SFTP" host="10.8.135.1" port="59365" sshConfigId="190084a4-dd8f-47de-9e5f-1339b5302b86" sshConfig="root@10.8.135.1:59365 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
